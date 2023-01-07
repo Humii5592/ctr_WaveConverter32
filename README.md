@@ -13,6 +13,6 @@ Change the "inputwavfilename" to the name of the wav. Keep the ".wav" or it won'
 
 To use the bcwav as a sound effect for your 3DS theme, open 3DS Theme Editor, select your theme, click on Experimental > CWAV Manager. Choose your sound effect, save the theme and you are done! Make sure to enable the "Sound effects" flag or there will be no sound effects.
 
-Download ctr_WaveConverter32 [https://bit.ly/ctr_WaveConverter32](here!)
+Download ctr_WaveConverter32 [https://github.com/Humii5592/ctr_WaveConverter32/releases/download/converter/ctr_WaveConverter32.zip](here!)
 
 By the way I'm not the creator of ctr_WaveConverter32, Nintendo created this tool, I'm just posting it here because nobody can seem to find it anymore. All credits to Nintendo for this tool.
